@@ -1,0 +1,13 @@
+json{
+  "schema": 1,
+  "id": "telegram-list",
+  "name": "Telegram Complete List",
+  "version": "1.0.0",
+  "author": "artemtopp-design",
+  "description": "Полный список доменов для работы Telegram",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://github.com/artemtopp-design",
+    "sha256": "auto"
+  }
+}
